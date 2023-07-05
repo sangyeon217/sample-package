@@ -8,7 +8,7 @@ setup(
     author_email='sangyeon217@gmail.com',
     packages=find_packages(include=['sample']),
     install_requires=[
-        'selenium>=4'
-        'webdriver_manager'
+        'selenium>=4',
+        'webdriver-manager'
     ]
 )
