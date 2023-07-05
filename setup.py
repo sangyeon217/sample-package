@@ -9,6 +9,6 @@ setup(
     packages=find_packages(include=['sample']),
     install_requires=[
         'selenium>=4'
-        'webdriver-manager>=3.8.6'
+        'webdriver-manager'
     ]
 )
